@@ -1,4 +1,4 @@
 # rpn-calculator
 
--Normal calculator Done
--RPN TO BE DONE
+- Normal calculator Done
+- RPN TO BE DONE
